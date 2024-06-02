@@ -22,7 +22,7 @@ By the following channels you can contact me:
 <a href="https://leetcode.com/u/Romen_Waden/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height=50 alt="LeetCode"></a>
 <a href="https://www.instagram.com/12_om_704/"><img src="https://github.com/omkar-afk/omkar-afk/blob/main/assets/instaimg.png" height=50 alt="LeetCode"></a>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <div style="display: flex; flex-direction: row;align-items:center">
   
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=omkar-afk&show_icons=true&theme=tokyonight&hide_border=true&" />
