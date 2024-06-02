@@ -7,15 +7,27 @@
 ### **About ME**
 - Proficient in **Python, C++, Java & JavaScript**.
 - MERN Stack Web Developer
-- Leetcoder 
+- Avid Leetcoder
 
+### Contact ME
+
+By the following channels you can contact me:
+
+- Email: omkardeshmukh7890@gmail.com
+- Linkedin: [Omkar Deshmukh](https://www.linkedin.com/in/omkar-deshmukh-213bb1230/)
+
+### Lets Connect
+ 
+<a href="https://linkedin.com/in/shxntanu"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/Romen_Waden/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height=50 alt="LeetCode"></a>
+<a href="https://www.instagram.com/12_om_704/"><img src="https://github.com/omkar-afk/omkar-afk/blob/main/assets/instaimg.png" height=50 alt="LeetCode"></a>
 
 ## 📊 GitHub Stats
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;align-items:center">
   
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=omkar-afk&count_private=true&theme=tokyonight&showicons=true)]()
+<img class="img" src="https://github-readme-stats.vercel.app/api?username=omkar-afk&show_icons=true&theme=tokyonight&hide_border=true&" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar-afk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar-afk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" alt="languages graph"  /> 
 </div>
 
 
