@@ -18,7 +18,7 @@ By the following channels you can contact me:
 
 ### Lets Connect
  
-<a href="https://linkedin.com/in/shxntanu"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/omkar-deshmukh-213bb1230/"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
 <a href="https://leetcode.com/u/Romen_Waden/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height=50 alt="LeetCode"></a>
 <a href="https://www.instagram.com/12_om_704/"><img src="https://github.com/omkar-afk/omkar-afk/blob/main/assets/instaimg.png" height=50 alt="LeetCode"></a>
 
