@@ -33,13 +33,3 @@ By the following channels you can contact me:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-afk&theme=tokyonight&hide_border=true&" alt="omkarr-afk" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omkar-afk&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&card_width=400&hide_border=true&order=2" alt="languages graph"  /> 
 
-
-<div align="center">
- 
- ### Profile Visitors
- 
-</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/omkar-afk/count.svg?"  />
-</div>
-
