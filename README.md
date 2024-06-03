@@ -4,19 +4,19 @@
   <h3 align="center">A passionate Full Stack Web Developer, Badminton player and also a Student at Pune Engineering of Computer Technology.</h3>
 </div>
 
-### 💻**About ME**
+### 💻 **About ME**
 - Proficient in **Python, C++, Java & JavaScript**.
 - MERN Stack Web Developer
 - Avid Leetcoder
 
-### 💬Contact ME
+### 💬 Contact ME
 
 By the following channels you can contact me:
 
 - Email: omkardeshmukh7890@gmail.com
 - Linkedin: [Omkar Deshmukh](https://www.linkedin.com/in/omkar-deshmukh-213bb1230/)
 
-### 🤝Lets Connect
+### 🤝 Lets Connect
  
 <a href="https://www.linkedin.com/in/omkar-deshmukh-213bb1230/"><img src="https://img.icons8.com/color/512/linkedin.png" width="50" height="50" alt="LinkedIn"></a>
 <a href="https://leetcode.com/u/Romen_Waden/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height=50 alt="LeetCode"></a>
